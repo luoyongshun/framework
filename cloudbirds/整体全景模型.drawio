@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:45:43.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="34gpJlC5ftSZ-xrFnpcI" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:49:33.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="G5N1p8xx-gU1X3hMzimC" version="20.8.23" type="github">
   <diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,11 +16,11 @@
         <mxCell id="p9PwpCMCgUYC3A1e71X0-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="p9PwpCMCgUYC3A1e71X0-14" value="APP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-14" value="APP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="190" y="41" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p9PwpCMCgUYC3A1e71X0-15" value="设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="460" y="41" width="60" height="30" as="geometry" />
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-15" value="设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="468" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-16" value="物联网管理平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="305" y="200" width="110" height="30" as="geometry" />
@@ -84,13 +84,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-75" value="移动&lt;br&gt;电信&lt;br&gt;联通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="410" y="46" width="50" height="60" as="geometry" />
+          <mxGeometry x="404" y="46" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="p9PwpCMCgUYC3A1e71X0-77" target="p9PwpCMCgUYC3A1e71X0-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-77" value="有线&lt;br&gt;无线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="540" y="46" width="50" height="60" as="geometry" />
+          <mxGeometry x="544" y="46" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-78" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;国内/外&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#d79b00;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="180" y="69" width="80" height="41" as="geometry" />
+          <mxGeometry x="180" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-80" value="4G" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="403.5" y="114" width="40" height="37" as="geometry" />
@@ -100,6 +103,9 @@
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-82" value="常电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="114" width="64" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-83" value="插池" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#005700;fontSize=17;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="72" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
