@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:54:35.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tPYQ95ThcS-PzRPPIkP5" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T09:01:47.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2974-KSMCSJ_UxMEkc_z" version="20.8.23" type="github">
   <diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p9PwpCMCgUYC3A1e71X0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="320" height="120" as="geometry" />
+          <mxGeometry x="200" y="200" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="41" width="200" height="120" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="400" y="39" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="480" height="280" as="geometry" />
+          <mxGeometry x="120" y="360" width="480" height="305" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-14" value="APP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="190" y="41" width="60" height="30" as="geometry" />
@@ -22,11 +22,11 @@
         <mxCell id="p9PwpCMCgUYC3A1e71X0-15" value="设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="468" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p9PwpCMCgUYC3A1e71X0-16" value="物联网管理平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-16" value="PC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="305" y="200" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p9PwpCMCgUYC3A1e71X0-17" value="微服务后台支撑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="305" y="400" width="110" height="30" as="geometry" />
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-17" value="云服务支撑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-18" value="苹果&lt;br&gt;安卓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="125" y="48" width="50" height="60" as="geometry" />
@@ -54,8 +54,8 @@
             <mxPoint x="560" y="200" as="sourcePoint" />
             <mxPoint x="440" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="360" />
-              <mxPoint x="360" y="360" />
+              <mxPoint x="560" y="320" />
+              <mxPoint x="360" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,8 +67,8 @@
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-72" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="360" as="sourcePoint" />
-            <mxPoint x="360" y="360" as="targetPoint" />
+            <mxPoint x="160" y="320" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="p9PwpCMCgUYC3A1e71X0-10">
@@ -79,7 +79,7 @@
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-74" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="160" y="320" as="sourcePoint" />
             <mxPoint x="160" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -106,6 +106,12 @@
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-85" value="内&lt;br&gt;外" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#005700;fontSize=17;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="73" width="42.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-86" value="千鸟物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="213" y="210" width="40" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-87" value="千鸟物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="428" y="210" width="40" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
