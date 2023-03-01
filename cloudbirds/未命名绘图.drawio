@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T02:45:48.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bv_WGregXngZaG2DMJO-" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T02:49:02.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q1eSLm2pOw7COzs3rNE-" version="20.8.23" type="github">
   <diagram name="第 1 页" id="yvUWGEL02yEKHM-XBLOZ">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,9 +58,9 @@
             <mxPoint x="360" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WEs470nkHhceNyE-327-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="8WEs470nkHhceNyE-327-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8WEs470nkHhceNyE-327-8" target="8WEs470nkHhceNyE-327-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="296.5" as="sourcePoint" />
+            <mxPoint x="590" y="380" as="sourcePoint" />
             <mxPoint x="495" y="296.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -73,6 +73,29 @@
         </mxCell>
         <mxCell id="8WEs470nkHhceNyE-327-22" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEs470nkHhceNyE-327-23" value="采购商" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEs470nkHhceNyE-327-24" value="经销商" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEs470nkHhceNyE-327-25" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEs470nkHhceNyE-327-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8WEs470nkHhceNyE-327-8" target="8WEs470nkHhceNyE-327-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="390" as="sourcePoint" />
+            <mxPoint x="650" y="415" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WEs470nkHhceNyE-327-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8WEs470nkHhceNyE-327-8" target="8WEs470nkHhceNyE-327-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="375" as="sourcePoint" />
+            <mxPoint x="650" y="375" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
