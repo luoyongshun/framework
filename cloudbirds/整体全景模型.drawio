@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T09:21:53.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LjMDm1X5zKCMoO1nhYoD" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T09:22:42.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CMAEHAVaVKn4vPziItJ-" version="20.8.23" type="github">
   <diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-98" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;客服服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fontSize=17;fillColor=#cdeb8b;" vertex="1" parent="1">
           <mxGeometry x="130" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-99" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;支付服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fontSize=17;fillColor=#cdeb8b;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-100" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;登录服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fontSize=17;fillColor=#cdeb8b;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
