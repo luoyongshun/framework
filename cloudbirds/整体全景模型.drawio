@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T06:09:52.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.23" etag="btESCJIR2JkzJUTXGUUW" type="github"><diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:37:15.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wuXGyaDVFNei99x5WATQ" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">
+    <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-14" value="APP" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-15" value="设备" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-16" value="物联网管理平台" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="305" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
