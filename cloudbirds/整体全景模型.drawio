@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T03:09:58.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Jhzpq-TswZSTlQaumXLx" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T03:10:17.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Vad_MSWO6jmu0IOn5bX3" version="20.8.23" type="github">
   <diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">
     <mxGraphModel dx="2074" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="p9PwpCMCgUYC3A1e71X0-118" value="Edge Gateway (LB) / WAF" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFE599;fontSize=11;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="127" y="395" width="464" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p9PwpCMCgUYC3A1e71X0-119" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontSize=11;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-119" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFE599;fontSize=11;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="325" y="438" width="72" height="150" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-126" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fontSize=11;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
