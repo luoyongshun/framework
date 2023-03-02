@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:54:37.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u_qVVwBZPiTHc5xVUCmh" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T07:40:09.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QqFotezvE3qcl8FKIHCP" version="20.8.23" type="github">
   <diagram name="第 1 页" id="3wjH-HXWQzSyyufw11Ov">
-    <mxGraphModel dx="2261" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
           <mxGeometry x="129.5" y="666" width="461.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-133" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#D5E8D4;fontSize=13;fontColor=#00CCCC;fillColor=#97D077;gradientColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="415" y="434" width="176" height="224" as="geometry" />
+          <mxGeometry x="415" y="434" width="176" height="166" as="geometry" />
         </mxCell>
         <mxCell id="p9PwpCMCgUYC3A1e71X0-134" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFF2CC;fontSize=13;fillColor=#fff2cc;gradientColor=#ffd966;direction=west;" vertex="1" parent="1">
           <mxGeometry x="318" y="433" width="40" height="225" as="geometry" />
@@ -253,8 +253,47 @@
         <mxCell id="p9PwpCMCgUYC3A1e71X0-154" value="CloudBirds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="120" y="-9" width="480" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="p9PwpCMCgUYC3A1e71X0-155" value="Internet of Things center" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-155" value="Global Internet of Things center" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="119" y="720" width="481" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-158" value="&lt;font color=&quot;#000000&quot;&gt;用户中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="465" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-159" value="&lt;font color=&quot;#000000&quot;&gt;卡设备中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="509" y="465" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-160" value="&lt;font color=&quot;#000000&quot;&gt;商品中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="498" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-161" value="&lt;font color=&quot;#000000&quot;&gt;营销中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="509" y="498" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-162" value="&lt;font color=&quot;#000000&quot;&gt;订单中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530.69" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-163" value="&lt;font color=&quot;#000000&quot;&gt;交易中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="509" y="530.69" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-164" value="Main Java Spring Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=#008a00;fontColor=#ffffff;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="418" y="434" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-166" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#D5E8D4;fontSize=13;fontColor=#00CCCC;fillColor=#97D077;gradientColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="415" y="600" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-167" value="High concurrency Golang" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fillColor=#008a00;fontColor=#ffffff;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="418" y="600" width="170" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-168" value="&lt;font color=&quot;#000000&quot;&gt;心跳中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="418" y="629" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-169" value="&lt;font color=&quot;#000000&quot;&gt;行为中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="509" y="629" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-170" value="&lt;font color=&quot;#000000&quot;&gt;服务中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="566" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p9PwpCMCgUYC3A1e71X0-171" value="&lt;font color=&quot;#000000&quot;&gt;消息中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;fontSize=13;fontColor=#00CCCC;fillColor=#FFCE9F;gradientColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="509" y="566" width="77" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
