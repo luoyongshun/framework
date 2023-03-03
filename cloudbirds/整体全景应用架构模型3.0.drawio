@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T03:59:39.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gbraJRPA7fkQzfubyEvP" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T04:01:13.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3iYzxkCyHXSVfepHIElE" version="20.8.23" type="github">
   <diagram name="第 1 页" id="4W9wxMfJ0nzZJp1bOFUA">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,13 +99,21 @@
             <mxPoint x="523" y="430" as="sourcePoint" />
             <mxPoint x="573" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="583" y="400" />
-              <mxPoint x="603" y="410" />
+              <mxPoint x="610" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ijTSNQqwyhnL8fiNV9Yl-26" value="买家应用集群" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fontSize=15;fillColor=#cdeb8b;strokeColor=#FFB570;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ijTSNQqwyhnL8fiNV9Yl-26" value="买家系统集群" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fontSize=15;fillColor=#cdeb8b;strokeColor=#FFB570;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="483" y="490" width="50" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ijTSNQqwyhnL8fiNV9Yl-27" value="卖家系统集群" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fontSize=15;fillColor=#cdeb8b;strokeColor=#FFB570;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="50" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ijTSNQqwyhnL8fiNV9Yl-28" value="供应链系统集群" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fontSize=15;fillColor=#cdeb8b;strokeColor=#FFB570;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="663" y="490" width="50" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ijTSNQqwyhnL8fiNV9Yl-29" value="运营系统集群" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fontSize=15;fillColor=#cdeb8b;strokeColor=#FFB570;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="490" width="50" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
