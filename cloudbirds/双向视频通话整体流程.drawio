@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T08:59:09.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="B9y84tBFvNuKb__IOjZe" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T09:22:26.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AE_mbgMLt_dEDpOQ_Sgk" version="21.6.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="957" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yieYN_3QLq70Y0hV3KNB-8" value="消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="yieYN_3QLq70Y0hV3KNB-8" value="消息/通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="40" y="70" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yieYN_3QLq70Y0hV3KNB-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="yieYN_3QLq70Y0hV3KNB-8" target="dNxyNK7c78bLwvsdeMH5-34">
@@ -63,6 +63,29 @@
         <mxCell id="yieYN_3QLq70Y0hV3KNB-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yieYN_3QLq70Y0hV3KNB-13">
           <mxGeometry x="-0.0376" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yieYN_3QLq70Y0hV3KNB-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="19" as="sourcePoint" />
+            <mxPoint x="100" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yieYN_3QLq70Y0hV3KNB-17" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yieYN_3QLq70Y0hV3KNB-16">
+          <mxGeometry x="-0.3904" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yieYN_3QLq70Y0hV3KNB-18" value="厂商通道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="80" y="40" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yieYN_3QLq70Y0hV3KNB-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="yieYN_3QLq70Y0hV3KNB-18" target="yieYN_3QLq70Y0hV3KNB-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yieYN_3QLq70Y0hV3KNB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.373;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-23">
